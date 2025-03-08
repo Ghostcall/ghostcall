@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Ghostcall
-- 🌱 i'm a full stack developer
-- 💞️ I’m looking to collaborate with other true and competent programmers who would always work and assist me in attaining my programming dreams.
-- 📫 you can always send me direct message with +2347069918965
+👋 Hey there! I’m Lawrence Oguguom (Lenz)
 
-<!---
-Ghostcall/Ghostcall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Frontend Software Developer | React, JavaScript, HTML, CSS
+
+I specialize in crafting seamless and interactive user experiences using React, JavaScript, HTML, and CSS. With a passion for clean code and modern UI/UX design, I build responsive, scalable, and high-performance web applications that leave a lasting impression.
+
+💡 What I Do
+
+✅ Frontend Development – Bringing designs to life with pixel-perfect implementation.
+✅ React & JavaScript – Building dynamic, interactive, and efficient web applications.
+✅ UI/UX Focused – Creating engaging, user-friendly experiences.
+✅ Responsive Design – Ensuring cross-device and cross-browser compatibility.
+
+📞 Get in Touch
+
+📩 Email: lawrenceoguguom@gmail.com
+📞 Phone: +234 706 991 8965
+
+I’m always open to exciting projects, collaborations, and freelance opportunities. Let’s build something amazing together! 🚀
